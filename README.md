@@ -1,3 +1,9 @@
+## Programming Languages used (Which programming languages have you used?)
+Zig, Elixir, ReasonML, Rust, Julia, C/C++, Python, Ruby, Java, Kotlin, C#, Javascript, HTML, CSS, Dart, PHP, SQL
+
+## Programming Languages interested in (What other programming languages are you interested in?)
+Ada, Prolog, F#, Smalltalk
+
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="140" alt="Logo" align="right" /> Igor Ferreira <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 =====
 
