@@ -1,11 +1,11 @@
 ## Favorite Programming Languages
-Zig, Elixir, Mint-lang, Julia
+Zig, Pony, Mint-lang, Julia
 
 ## Most Used Programming Languages
-Zig, Elixir
+Zig, Pony, Elixir, Mint-lang, Javascript
 
 ## Programming Languages used (Which programming languages have you used?)
-Zig, Elixir, Mint-lang, Julia, Rust, C/C++, Python, Ruby, Java, Kotlin, C#, Javascript, ReasonML, HTML, CSS, Dart, PHP, SQL
+Zig, Pony, Elixir, Mint-lang, Julia, Rust, C/C++, Python, Ruby, Java, Kotlin, C#, Javascript, ReasonML, HTML, CSS, Dart, PHP, SQL
 
 ## Programming Languages interested in (What other programming languages are you interested in?)
 Ada, Prolog, F#, Smalltalk
