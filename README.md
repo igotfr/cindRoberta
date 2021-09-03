@@ -2,10 +2,17 @@
 V, Pony, Mint-lang, Julia
 
 ## Most Used Programming Languages
-V, Zig, Pony, Elixir, Mint-lang, Javascript
+V, Zig
+Pony, Elixir
+Mint-lang, Dart, Javascript
 
 ## Programming Languages used (Which programming languages have you used?)
-V, Zig, Pony, Elixir, Mint-lang, Julia, Rust, C/C++, Python, Ruby, Java, Kotlin, C#, Javascript, ReasonML, HTML, CSS, Dart, PHP, SQL
+V, Zig, Rust, C/C++
+Pony, Elixir
+Java, Kotlin, C#, PHP
+Julia, Python, Ruby
+Mint-lang, Dart, Javascript, ReasonML, HTML, CSS
+SQL
 
 ## Programming Languages interested in (What other programming languages are you interested in?)
 Ada, Prolog, F#, Smalltalk
