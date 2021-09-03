@@ -1,17 +1,17 @@
 ## Favorite Programming Languages
-V, Pony, Mint-lang, Julia
+![V Badge](https://img.shields.io/badge/V-%23ED8B00.svg?&style=for-the-badge&logo=V), Pony, Mint-lang, ![Julia Badge](https://img.shields.io/badge/Julia-%23ED8B00.svg?&style=for-the-badge&logo=julia)
 
 ## Most Used Programming Languages
-- V, Zig
-- Pony, Elixir
-- Mint-lang, Dart, Javascript
+- ![V Badge](https://img.shields.io/badge/V-%23ED8B00.svg?&style=for-the-badge&logo=V) ![Zig Badge](https://img.shields.io/badge/Zig-%23ED8B00.svg?&style=for-the-badge&logo=zig)
+- Pony, ![Elixir Badge](https://img.shields.io/badge/Elixir-%23ED8B00.svg?&style=for-the-badge&logo=Elixir)
+- Mint-lang, ![Dart Badge](https://img.shields.io/badge/Dart-%23ED8B00.svg?&style=for-the-badge&logo=dart) ![JavaScript Badge](https://img.shields.io/badge/JavaScript-%23ED8B00.svg?&style=for-the-badge&logo=JavaScript)
 
 ## Programming Languages used (Which programming languages have you used?)
-- V, Zig, Rust, C/C++
-- Pony, Elixir
-- Java, Kotlin, C#, PHP
-- Julia, Python, Ruby
-- Mint-lang, Dart, Javascript, ReasonML, HTML, CSS
+- ![V Badge](https://img.shields.io/badge/V-%23ED8B00.svg?&style=for-the-badge&logo=v) ![Zig Badge](https://img.shields.io/badge/Zig-%23ED8B00.svg?&style=for-the-badge&logo=zig) ![Rust Badge](https://img.shields.io/badge/Rust-%23ED8B00.svg?&style=for-the-badge&logo=rust) ![C Badge](https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white) ![C++ Badge](https://img.shields.io/badge/C++-%23ED8B00.svg?&style=for-the-badge&logo=Cplusplus)
+- Pony, ![Elixir Badge](https://img.shields.io/badge/Elixir-%23ED8B00.svg?&style=for-the-badge&logo=Elixir)
+- ![Java Badge](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white) ![Kotlin Badge](https://img.shields.io/badge/Kotlin-%23ED8B00.svg?&style=for-the-badge&logo=Kotlin) ![C# Badge](https://img.shields.io/badge/C\#-%23ED8B00.svg?&style=for-the-badge&logo=C#) ![PHP Badge](https://img.shields.io/badge/PHP-%23ED8B00.svg?&style=for-the-badge&logo=PHP)
+- ![Julia Badge](https://img.shields.io/badge/Julia-%23ED8B00.svg?&style=for-the-badge&logo=julia) ![Python Badge](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python) ![Ruby Badge](https://img.shields.io/badge/Ruby-%23ED8B00.svg?&style=for-the-badge&logo=ruby)
+- Mint-lang, ![Dart Badge](https://img.shields.io/badge/Dart-%23ED8B00.svg?&style=for-the-badge&logo=dart) ![JavaScript Badge](https://img.shields.io/badge/JavaScript-%23ED8B00.svg?&style=for-the-badge&logo=JavaScript) ![ReasonML Badge](https://img.shields.io/badge/ReasonML-%23ED8B00.svg?&style=for-the-badge&logo=Reason) ![HTML Badge](https://img.shields.io/badge/HTML-%23ED8B00.svg?&style=for-the-badge&logo=HTML5) ![CSS Badge](https://img.shields.io/badge/CSS-%23ED8B00.svg?&style=for-the-badge&logo=CSS3)
 - SQL
 
 ## Programming Languages interested in (What other programming languages are you interested in?)
@@ -35,11 +35,6 @@ Ada, Prolog, F#, Smalltalk
         <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=joshaby&show_icons=true&bg_color=FFF&text_color=000&title_color=14274e&icon_color=394867" /></td>  
   </table>
 </center>
-
-### Favorite languages
-![Java Badge](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
-![C Badge](https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white)
-![Python Badge](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
 
 ### Workspace spec
 
