@@ -36,7 +36,9 @@
 |---|
 
 - Interested in (What other programming languages are you interested in?)
-Ada, Prolog, F#, Smalltalk
+
+| [<img src="https://w7.pngwing.com/pngs/538/352/png-transparent-ada-lovelace-programmer-programming-language-strong-typing-computer-label-computer-logo.png" alt="ada logo" width="40">](https://www.adacore.com/about-ada) | [<img src="https://www.swi-prolog.org/icons/swipl.png" alt="prolog logo" width="50">](https://www.swi-prolog.org/) | [<img src="https://fsharp.org/img/logo/fsharp256.png" alt="f# logo" width="35">](https://fsharp.org/) | [<img src="https://lh3.googleusercontent.com/proxy/_Ubg7XTV31-wJiwO7iILEX68NiXxWueSeprxicliaBE2H285QBuq43CgKNsKno5UBYT10WMaijtZTbqTH2iA072DXlvThENtHhAX83A" alt="smalltalk logo" width="50">](https://fsharp.org/) |
+|---|---|---|---|
 
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="140" alt="Logo" align="right" /> Igor Ferreira <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 =====
