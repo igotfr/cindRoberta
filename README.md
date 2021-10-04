@@ -43,7 +43,7 @@
 ### Tools 🛠️
 - Favorites
 
-| [<img src="https://www.nayab.xyz/assets/img/linux-cli-book.png" alt="linux cli logo" width="70">](https://www.adacore.com/about-ada) | [<img src="https://www.swi-prolog.org/icons/swipl.png" alt="prolog logo" width="50">](https://www.swi-prolog.org/) | [<img src="https://repository-images.githubusercontent.com/115159616/44eb1980-a6f4-11e9-9e7b-df7adf662967" alt="nanos logo" width="72">](https://nanos.org/) | [<img src="https://lh3.googleusercontent.com/proxy/_Ubg7XTV31-wJiwO7iILEX68NiXxWueSeprxicliaBE2H285QBuq43CgKNsKno5UBYT10WMaijtZTbqTH2iA072DXlvThENtHhAX83A" alt="smalltalk logo" width="50">](https://fsharp.org/) |
+| [<img src="https://www.nayab.xyz/assets/img/linux-cli-book.png" alt="linux cli logo" width="70">](https://www.linuxjournal.com/content/linux-command-line-interface-introduction-guide) | [<img src="https://git-scm.com/images/logo@2x.png" alt="git logo" width="50">](https://git-scm.com/) | [<img src="https://repository-images.githubusercontent.com/115159616/44eb1980-a6f4-11e9-9e7b-df7adf662967" alt="nanos logo" width="72">](https://nanos.org/) | [<img src="https://lh3.googleusercontent.com/proxy/_Ubg7XTV31-wJiwO7iILEX68NiXxWueSeprxicliaBE2H285QBuq43CgKNsKno5UBYT10WMaijtZTbqTH2iA072DXlvThENtHhAX83A" alt="vscode logo" width="50">](https://code.visualstudio.com/) |
 |---|---|---|---|
 
 - Most Used
