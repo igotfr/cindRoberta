@@ -1,8 +1,11 @@
 ### Programming Languages 🌐
 - Favorites
 
-| [<img src="https://raw.githubusercontent.com/vlang/v-logo/master/dist/v-logo.svg?sanitize=true" alt="v logo" width="35">](https://vlang.io/) | [<img src="https://www.ponylang.io/images/logo.png" alt="pony logo" width="50">](https://www.ponylang.io/) | [<img src="https://raw.githubusercontent.com/mint-lang/mint/master/src/assets/mint-logo.svg" alt="mint logo" width="75">](https://www.mint-lang.com/) | [<img src="https://raw.githubusercontent.com/github/explore/cfd26557025b2ccaa2d3d25f3e518e29ebea05c5/topics/julia/julia.png" alt="julia logo" width="50">](https://julialang.org/) |
-|---|---|---|---|
+| [<img src="https://raw.githubusercontent.com/vlang/v-logo/master/dist/v-logo.svg?sanitize=true" alt="v logo" width="35">](https://vlang.io/) | [<img src="https://www.competitionsciences.org/wp-content/uploads/2020/08/download.png" alt="apl logo" width="35">](https://tryapl.org/) |
+|---|---|
+
+| [<img src="https://www.ponylang.io/images/logo.png" alt="pony logo" width="50">](https://www.ponylang.io/) | [<img src="https://raw.githubusercontent.com/mint-lang/mint/master/src/assets/mint-logo.svg" alt="mint logo" width="75">](https://www.mint-lang.com/) | [<img src="https://raw.githubusercontent.com/github/explore/cfd26557025b2ccaa2d3d25f3e518e29ebea05c5/topics/julia/julia.png" alt="julia logo" width="50">](https://julialang.org/) |
+|---|---|---|
 
 - Most Used
 
