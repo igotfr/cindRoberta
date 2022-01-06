@@ -1,3 +1,13 @@
+## About me
+I love algorithms, compilers, engines and IAs.
+Interested in fast, simple and well desegned multi-proposal languages and different paradigms.
+Architectures and Patterns for jobs and co-works
+
+### Architectures, Patterns and Paradigms
+| [<img src="https://raw.githubusercontent.com/vlang/v-logo/master/dist/v-logo.svg?sanitize=true" alt="v logo" width="35">](https://vlang.io/) | [<img src="https://camo.githubusercontent.com/99f388a65a6eed1d03fc9bc24c983debcb2445e07f53af825e28e69c049a6912/68747470733a2f2f7a69676c616e672e6f72672f7a69672d6c6f676f2e737667" alt="zig logo" width="70">](https://ziglang.org/) | [<img src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" alt="rust logo" width="50">](https://www.rust-lang.org/) | [<img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" alt="c logo" width="40">](https://www.cplusplus.com/reference/clibrary/) | [<img src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" alt="c++ logo" width="40">](https://www.cplusplus.com/) |
+|---|---|---|---|---|
+
+
 ### Programming Languages 🌐
 - Favorites
 
